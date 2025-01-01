@@ -1,2 +1,2 @@
-# Research-track-projects
-Repository containing research track projects and assignments
+# Research-track-projects MSC Robotics Eng
+Repository containing research track course projects and assignments
